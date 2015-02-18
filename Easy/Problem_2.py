@@ -10,6 +10,3 @@ def FirstFactorial(num):
 # to see how to enter arguments in Python scroll down
 print FirstFactorial(raw_input())
 
-#P.S. I cheated a little with this one by importing math and using the factorial method.
-#But hey, it's a good programmers job to know the tools that exist out there for him.
-#Keeping my code DRY lol, that pun sounds so lame.
